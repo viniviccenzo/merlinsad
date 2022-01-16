@@ -16,7 +16,7 @@
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Vini-pic" height="150" style="border-radius:50px;" src="https://instagram.fbfh1-2.fna.fbcdn.net/v/t51.2885-19/s320x320/162614171_197142921789080_7435752816381464335_n.jpg?_nc_ht=instagram.fbfh1-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=oGMwbGlELMIAX_5KhuK&edm=ABfd0MgBAAAA&ccb=7-4&oh=8df7df21725be0ce7d9884e2ed2b3da9&oe=6186548B&_nc_sid=7bff83">
+  <img align="right" alt="Vini-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/89109159/149682160-eb49033d-a1f5-4549-b49a-6a263c80c792.png">
 </div>
   
  ##
