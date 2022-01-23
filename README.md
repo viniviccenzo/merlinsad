@@ -1,8 +1,8 @@
 ### You can call me just "Vini".
 ### Well, i love my cats, and love study about and work with Back-End, currently i'm learning Python and using the Framework called "Django".
 ### After Python, i really want to know Ruby.
-### I'm ever open to oportunnities and learn new thins.
-### This profille is just to post my updates diares of my projects when i can.
+### I'm ever open to oportunities and learn new things.
+### This profile is just to post my updates diares of my projects when i can.
 ### Feel free to explore him. =)
 
 <div align="center">
