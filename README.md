@@ -1,5 +1,5 @@
 ### You can call me just "Vini".
-### Well, i love my cats, and love study about and work with Back-End, but also a discovering my true love by Front-End.
+### Well, i love my cats, and love study about and work with Back-End, but also i'm discover my true love by Front-End.
 ### After Python, i really want to know Ruby.
 ### I'm ever open to oportunities and learn new things.
 ### This profile is just to post my updates diares of my projects when i can.
