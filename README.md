@@ -9,7 +9,7 @@
 const vini = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React,  Node, Rails, Django, React Native, Flutter, Docker, Bootstrap];
+  tools: [React,  Node, Rails, Django, React Native, Flutter, Docker, Bootstrap, Tailwind, AngularJS, Angular 5+, SpringBoot];
 ```
 
 <br><br>
