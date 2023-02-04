@@ -1,5 +1,4 @@
 <h2> Hi, I'm Vinícius Vicenzo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://c.tenor.com/5O48nhgNvjIAAAAC/typing-cat.gif" width="230">
 <p><em>Student of Software Enginner at <a href="http://www.unb.br">University of Joinville</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
